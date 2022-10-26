@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gaidar, Exec at @Acronis | Former @RunaCapital | Former @Microsoft
 - 👀 I’m interested in automation of business processes and machine intelligence
 - 🌱 I’m currently learning new machine intelligence technology
-- 📫 How to reach me: twitter.com/gaidar, facebook.com/gaidar
+- 📫 How to reach me: https://twitter.com/gaidar
