@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaidar, Exec at @Acronis | Former @RunaCapital | Former @Microsoft
-- 👀 I’m interested in using AI for productivity
-- 🌱 I’m constatnly learning new things
-- 📫 How to reach me: https://x.com/gaidar
+- 👋 Hi, I’m @gaidar, hands on executive with business and technical background
+- 👀 I’m interested in using technology to drive positive change
+- 🌱 I’m constatnly investing time in learning and sharing knowledge
+- 📫 How to reach me: https://www.linkedin.com/in/gaidar/
